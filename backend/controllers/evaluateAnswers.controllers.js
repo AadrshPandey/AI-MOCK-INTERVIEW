@@ -1,4 +1,4 @@
-import { askGemini } from "../gemini";
+import { askGemini } from "../gemini.js";
 
 const evaluateAnswers = async (req, res) => {
   try {
