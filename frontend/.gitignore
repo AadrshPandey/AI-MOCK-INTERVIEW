@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+VITE_API_BASE = "http://localhost:5000/api"
 
 node_modules
 dist
